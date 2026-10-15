@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44" fill="none">
+  <!-- Standalone Icon Mark -->
+  <g transform="translate(0, 2)">
+    <rect width="40" height="40" rx="10" fill="#111827" />
+    <rect x="0.5" y="0.5" width="39" height="39" rx="9.5" stroke="#1F2937" stroke-width="1" />
+
+    <!-- Catch Loop Cradle -->
+    <path
+      d="M 11 18.5 C 11 26 16 30 22.5 30 C 26.5 30 29 28 29 24.5"
+      stroke="#FFFFFF"
+      stroke-width="3"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Ascending Growth Arrow -->
+    <path
+      d="M 29 24.5 V 11.5"
+      stroke="#B7F34A"
+      stroke-width="3"
+      stroke-linecap="round"
+    />
+    <path
+      d="M 24.5 15.5 L 29 11 L 33.5 15.5"
+      stroke="#B7F34A"
+      stroke-width="3"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Captured Lead Focus Node -->
+    <circle cx="17.5" cy="19.5" r="3.25" fill="#B7F34A" />
+  </g>
+
+  <!-- Wordmark "LeadCatch" -->
+  <text
+    x="52"
+    y="28"
+    font-family="Plus Jakarta Sans, system-ui, -apple-system, sans-serif"
+    font-size="22"
+    font-weight="700"
+    letter-spacing="-0.03em"
+    fill="#111827"
+  >
+    Lead<tspan font-weight="800" fill="#111827">Catch</tspan>
+  </text>
+</svg>
